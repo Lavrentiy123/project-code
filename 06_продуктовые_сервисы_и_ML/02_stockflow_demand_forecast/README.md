@@ -2,7 +2,7 @@
 
 * **Роль:** Системный инженер (Лаврентий Ямпуров в кросс-функциональной команде из 7 человек)
 * **Стек:** Python, SQL, Time-Series ML, BPMN 2.0, User Stories, Scrumban, Jira
-* **📊 Презентация проекта (PPTX):** [StockFlow_ИИ_Агент_Прогнозирования_Спроса.pptx](StockFlow_ИИ_Агент_Прогнозирования_Спроса.pptx)
+* **📊 Презентация проекта (PPTX):** StockFlow_ИИ_Агент_Прогнозирования_Спроса.pptx (не входит в публикацию кода)
 * **🌐 Онлайн-версия:** [Google Slides](https://docs.google.com/presentation/d/15nC8xzPXrTYodyBwwZRlJSDey06OYHEKwI0ocs4V1ic/edit?usp=sharing)
 
 ---

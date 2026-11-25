@@ -3,7 +3,7 @@
 * **Роль:** Product Manager / Аналитик (Лаврентий Ямпуров в кросс-функциональной команде)
 * **Статус:** Прототип / Продуктовое исследование | Период: 2025–2026
 * **Стек:** Claude API, ChatGPT, Telegram Bot API, Библиотека отраслевых промптов, No-code, Google Sheets, Python
-* **📊 Презентация проекта (PPTX в репозитории, 25 слайдов):** [DetailLab_Презентация_Проекта.pptx](DetailLab_Презентация_Проекта.pptx)
+* **📊 Презентация проекта (PPTX в репозитории, 25 слайдов):** DetailLab_Презентация_Проекта.pptx (не входит в публикацию кода)
 * **🌐 Онлайн-презентация:** [Google Drive](https://drive.google.com/file/d/1ZUo6grfGG3CICfcq6VdOpUBxEY0lESfD/view)
 
 ---

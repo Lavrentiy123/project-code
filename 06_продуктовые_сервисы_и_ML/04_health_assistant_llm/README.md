@@ -3,7 +3,7 @@
 * **Роль:** Product Owner / Системный аналитик (Лаврентий Ямпуров)
 * **Статус:** Рабочий прототип | Курс: «Применение больших языковых моделей в бизнес-задачах»
 * **Стек:** OpenAI API (ChatGPT mini), Python, Replit, Prompt Engineering, Guardrails безопасности
-* **📄 Документация проекта (в репозитории):** [Health_Assistant_Docs.pdf](Health_Assistant_Docs.pdf) | [Health_Assistant_Docs.docx](Health_Assistant_Docs.docx)
+* **📄 Документация проекта (в репозитории):** Health_Assistant_Docs.pdf (не входит в публикацию кода) | Health_Assistant_Docs.docx (не входит в публикацию кода)
 * **🌐 Документация онлайн:** [Google Docs](https://docs.google.com/document/d/1WbgyNOEuXo-2ZqzovYGxsWLp8RNBdFQx/edit)
 * **💻 Исходный код на платформе:** [Replit Project](https://replit.com/join/itilxzqftj-kinolavrik)
 * **🎥 Видео-демонстрация функционала:** [Google Drive Video Demo](https://drive.google.com/file/d/1tCSXsKdtzVwht1ZrK_8EATxUVeI0D3YO/view)

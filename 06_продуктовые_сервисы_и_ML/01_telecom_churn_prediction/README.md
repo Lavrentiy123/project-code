@@ -4,7 +4,7 @@
 * **Статус:** Учебный / Исследовательский проект
 * **Датасет:** Telco Customer Churn (7 043 клиента, 21 признак)
 * **Стек:** Python 3.9+, Pandas, Scikit-learn, XGBoost, Matplotlib, Jupyter Notebook
-* **📊 Презентация проекта (PPTX в репозитории):** [Telecom_Churn_Presentation.pptx](Telecom_Churn_Presentation.pptx)
+* **📊 Презентация проекта (PPTX в репозитории):** Telecom_Churn_Presentation.pptx (не входит в публикацию кода)
 * **🌐 Онлайн-презентация:** [Google Slides](https://docs.google.com/presentation/d/1F-zmeWsoK9N36dUIy9wTz1WhveyvmVYG/edit?usp=sharing)
 
 ---

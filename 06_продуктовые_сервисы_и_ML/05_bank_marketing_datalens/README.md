@@ -3,7 +3,7 @@
 * **Роль:** Бизнес-аналитик / Data Analyst (Лаврентий Ямпуров)
 * **Статус:** Учебный аналитический проект | Датасет: UCI Bank Marketing (41 188 записей)
 * **Стек:** Yandex DataLens, SQL, Excel, Grok (AI assistant для структуры дашборда и гипотез)
-* **📄 Отчёт по проекту (в репозитории):** [Bank_Marketing_Report.pdf](Bank_Marketing_Report.pdf) | [Bank_Marketing_Report.docx](Bank_Marketing_Report.docx)
+* **📄 Отчёт по проекту (в репозитории):** Bank_Marketing_Report.pdf (не входит в публикацию кода) | Bank_Marketing_Report.docx (не входит в публикацию кода)
 * **🌐 Отчёт по проекту онлайн:** [Google Docs](https://docs.google.com/document/d/1xi71p8m69jWm-494B_mQWIvAQo0dMqf3/edit)
 * **🌐 Публичный интерактивный дашборд DataLens:** [https://datalens.yandex/s4usvxxpcueoc](https://datalens.yandex/s4usvxxpcueoc) *(Зеркало: [https://datalens.yandex/9krm5z44271at](https://datalens.yandex/9krm5z44271at))*
 * **🖥️ Автономный офлайн-дашборд:** [bank_marketing_dashboard.html](bank_marketing_dashboard.html)

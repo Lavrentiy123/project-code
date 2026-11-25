@@ -22,3 +22,5 @@
 Исходные реализации медкарты ВГК, конвейера стратегической аналитики и стратегического помощника хранятся в закрытых репозиториях. Их публичные кейсы доступны в портфолио. В этом каталоге опубликованы только учебные и исследовательские прототипы; корпоративные папки и прежняя история Git сюда не перенесены.
 
 [Конвейер](https://github.com/Lavrentiy123/portfolio/blob/main/docs/02-strategy-pipeline.md) · [Стратегический помощник](https://github.com/Lavrentiy123/portfolio/blob/main/docs/03-strategy-assistant.md) · [Медкарта ВГК](https://github.com/Lavrentiy123/portfolio/blob/main/docs/01-equipment-health.md)
+
+[Что входит в открытую публикацию](PUBLIC_SCOPE.md)
